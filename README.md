@@ -63,20 +63,20 @@ It is exceptionally well suited for dense segmentation tasks in complex 3D envir
   </tr>
   <tr>
     <td>DGCNN</td>
-    <td>n</td>
-    <td>n</td>
+    <td>86.63</td>
+    <td>81.02</td>
     <td>Not Applicable</td>
   </tr>
   <tr>
     <td>PointCNN</td>
-    <td>n</td>
-    <td>n</td>
+    <td>78.44</td>
+    <td>71.53</td>
     <td>Not Applicable</td>
   </tr>
   <tr>
     <td>PointNet</td>
-    <td>n</td>
-    <td>n</td>
+    <td>79.34</td>
+    <td>77.77</td>
     <td>Not Applicable</td>
   </tr>
   <tr>
